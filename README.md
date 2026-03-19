@@ -29,14 +29,14 @@ Project ini merupakan implementasi sistem **lampu lalu lintas 4 arah** menggunak
 ---
 
 ## 🔌 Wiring Diagram
-Tambahkan gambar wiring di folder documentation:
-`documentation/wiring-diagram.png`
+Lihat pada folder:
+`documentation/`
 
 ---
 
-## 🖥️ Hasil Simulasi
-Tambahkan screenshot simulasi:
-`documentation/hasil-simulasi.png`
+## 🖥️ Video Hasil Simulasi
+Lihat pada folder:
+`documentation/`
 
 ---
 
@@ -53,7 +53,7 @@ https://www.tinkercad.com/things/iFkcVMNSzt2-percobaan-traffic-4-simpang
 
 ## 📄 Laporan
 Laporan lengkap terdapat pada folder:
-`laporan/Laporan_Tugas3_TrafficLight.pdf`
+`laporan/`
 
 
 ---
